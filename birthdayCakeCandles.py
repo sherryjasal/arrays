@@ -9,3 +9,5 @@ def birthdayCakeCandles(candles):
         if i == max_candles:
             count +=1
     return count
+
+## Lessons learnt: find max first from the list and declare it outside the loop and then use counter
