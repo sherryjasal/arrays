@@ -14,3 +14,6 @@
             print("Weird")
         elif (n>20):
             print("Not Weird")
+            
+##lessons learnt "inclusive" (including the given numbers in that range <= or >=)
+## // divion operator will give the quotient where as we want the remainder so %(modulus operator)
